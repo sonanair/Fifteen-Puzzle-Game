@@ -1,4 +1,3 @@
-# assignment: programming assignment 5, graph.py
 # author: Sona Nair
 # date: 03/17/23
 
